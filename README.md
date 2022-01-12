@@ -15,7 +15,7 @@ It's an app where you can set time for the pomodoro technique, from 0 to 59 minu
  - **Pomodoro App Page:** Shows the timer, time config and Start/Stop button.
 
 ### Features: ###
- - **Show time indicator:** Shows the border of the timer, red or green, depending on whether the time is up.
+ - **Show time indicator:** Shows the border of the timer, red or green and play a sound depending on whether the time is up.
  - **START or STOP:** Pause or continue the timing.
  - **Set the time:** Specify the amount of time to count.
  
