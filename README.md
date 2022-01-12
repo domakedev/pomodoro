@@ -22,7 +22,7 @@ It's an app where you can set time for the pomodoro technique, from 0 to 59 minu
 # Visit the web online
 [![Netlify Status](https://api.netlify.com/api/v1/badges/38ab7e9f-33c9-4d77-844e-70a94cf801ff/deploy-status)](https://app.netlify.com/sites/pomodoro-domakedev/deploys)
 
-You can see the web here: [Tu subasta](https://pomodoro-domakedev.netlify.app/).
+You can see the web here: [Pomodoro](https://pomodoro-domakedev.netlify.app/).
 
 # Start this project
 
